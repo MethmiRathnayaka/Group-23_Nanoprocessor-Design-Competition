@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Thu Apr 25 11:59:55 2024
+# Process ID: 23496
+# Current directory: C:/Users/hp/Downloads/Nanoprocessor Design Competition - Group 23/Lab 9-10 Nanoprocessor Design Competition/Lab 9
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent19136 C:\Users\hp\Downloads\Nanoprocessor Design Competition - Group 23\Lab 9-10 Nanoprocessor Design Competition\Lab 9\Lab 9.xpr
+# Log file: C:/Users/hp/Downloads/Nanoprocessor Design Competition - Group 23/Lab 9-10 Nanoprocessor Design Competition/Lab 9/vivado.log
+# Journal file: C:/Users/hp/Downloads/Nanoprocessor Design Competition - Group 23/Lab 9-10 Nanoprocessor Design Competition/Lab 9\vivado.jou
+#-----------------------------------------------------------
+start_guopopen_project {C:/Users/hp/Downloads/Nanoprocessor Design Competition - Group 23/Lab 9-10 Nanoprocessor Design Competition/Lab 9/Lab 9.xprupupdate_compile_order -fileset sources_1
